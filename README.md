@@ -1,4 +1,3 @@
-# abdul-mannan.github.io
 # 👋 Hi, I'm Abdul Mannan
 
 **SOC Analyst | Cybersecurity Enthusiast | Threat Hunter**
